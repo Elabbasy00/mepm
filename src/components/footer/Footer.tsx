@@ -112,12 +112,12 @@ function Footer() {
               <List aria-labelledby="contact-list">
                 <FooterInfo>
                   <MdEmail />
-                  <Typography level="h4">ahmedelabbasy5@gmail.com</Typography>
+                  <Typography level="h4">am@mepmcc.com</Typography>
                 </FooterInfo>
                 <FooterInfo>
                   <MdPhone />
                   <Typography level="h4" sx={{ direction: "rtl" }}>
-                    201062347769
+                    +965 22209308
                   </Typography>
                 </FooterInfo>
                 {/* <FooterInfo>

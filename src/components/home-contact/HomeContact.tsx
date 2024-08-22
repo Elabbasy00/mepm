@@ -121,7 +121,7 @@ function ContactUs() {
                 <IconButton
                   variant="soft"
                   color="primary"
-                  href="tel:201062347769"
+                  href="tel:+96522209308"
                   component="a"
                   target="_blank"
                 >
@@ -130,7 +130,7 @@ function ContactUs() {
                 <IconButton
                   variant="soft"
                   color="primary"
-                  href="https://api.whatsapp.com/send?phone=201062347769"
+                  href="https://api.whatsapp.com/send?phone=+96597170105"
                   component="a"
                   target="_blank"
                 >
@@ -140,7 +140,7 @@ function ContactUs() {
                   variant="soft"
                   color="primary"
                   component="a"
-                  href="mailto:ahmedelabbasy5@gmail.com"
+                  href="mailto:am@mepmcc.com"
                   target="_blank"
                 >
                   <MdEmail />
