@@ -116,9 +116,7 @@ function Footer() {
                 </FooterInfo>
                 <FooterInfo>
                   <MdPhone />
-                  <Typography level="h4" sx={{ direction: "rtl" }}>
-                    +965 22209308
-                  </Typography>
+                  <Typography level="h4">+965 22209308</Typography>
                 </FooterInfo>
                 {/* <FooterInfo>
                   <MdLocationPin />
